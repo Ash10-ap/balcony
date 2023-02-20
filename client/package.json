@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ash10-ap.github.io/balcony/",
+  "homepage": "./https://ash10-ap.github.io/balcony/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
